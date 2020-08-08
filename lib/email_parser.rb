@@ -11,3 +11,4 @@ class EmailAddressParser
     @parse(/,?\s/).uniq 
   end 
 end 
+end 
